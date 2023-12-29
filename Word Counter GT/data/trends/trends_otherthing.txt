@@ -1,0 +1,60 @@
+consequat - 2m
+Feb - Mar : 30
+Apr - May : 27
+Jun - Jul : 26
+Aug - Sep : 23
+Oct - Nov : 28
+Dec - Jan : 19
+Feb - Mar : 30
+Apr - May : 27
+Jun - Jul : 33
+Aug - Sep : 29
+Oct - Nov : 31
+Dec - Jan : 13
+
+
+ligula - 2m
+Feb - Mar : 25
+Apr - May : 32
+Jun - Jul : 29
+Aug - Sep : 42
+Oct - Nov : 40
+Dec - Jan : 35
+Feb - Mar : 39
+Apr - May : 37
+Jun - Jul : 38
+Aug - Sep : 43
+Oct - Nov : 27
+Dec - Jan : 19
+
+
+habitant - 2m
+Feb - Mar : 0
+Apr - May : 5
+Jun - Jul : 4
+Aug - Sep : 3
+Oct - Nov : 4
+Dec - Jan : 4
+Feb - Mar : 2
+Apr - May : 3
+Jun - Jul : 7
+Aug - Sep : 7
+Oct - Nov : 6
+Dec - Jan : 2
+
+
+senectus - 2m
+Feb - Mar : 0
+Apr - May : 5
+Jun - Jul : 4
+Aug - Sep : 3
+Oct - Nov : 4
+Dec - Jan : 4
+Feb - Mar : 2
+Apr - May : 3
+Jun - Jul : 7
+Aug - Sep : 7
+Oct - Nov : 6
+Dec - Jan : 2
+
+

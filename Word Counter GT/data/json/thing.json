@@ -1,0 +1,44 @@
+{
+	"name": "Thing",
+	"tickLabels": [
+		"Feb - Mar",
+		"Apr - May",
+		"Jun - Jul",
+		"Aug - Sep",
+		"Oct - Nov",
+		"Dec - Jan",
+		"Feb - Mar",
+		"Apr - May",
+		"Jun - Jul",
+		"Aug - Sep",
+		"Oct - Nov",
+		"Dec - Jan"
+	],
+	"dataPoints": [
+		{
+			"name": "Lorem",
+			"fullName": "Lorem",
+			"y-axis": [44, 44, 35, 46, 52, 41, 33, 45, 48, 42, 31, 10]
+		},
+		{
+			"name": "Suspendisse",
+			"fullName": "Suspendisse",
+			"y-axis": [24, 22, 27, 21, 32, 37, 37, 26, 26, 27, 26, 19]
+		},
+		{
+			"name": "Vivamus",
+			"fullName": "Vivamus",
+			"y-axis": [22, 23, 33, 19, 24, 25, 23, 19, 25, 20, 24, 9]
+		},
+		{
+			"name": "Etiam",
+			"fullName": "Etiam",
+			"y-axis": [21, 22, 28, 16, 13, 28, 28, 20, 26, 17, 23, 14]
+		},
+		{
+			"name": "Maecenas",
+			"fullName": "Maecenas",
+			"y-axis": [17, 28, 14, 30, 11, 18, 22, 26, 20, 18, 26, 22]
+		}
+	]
+}

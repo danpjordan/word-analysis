@@ -1,0 +1,75 @@
+Lorem - 2m
+Feb - Mar : 44
+Apr - May : 44
+Jun - Jul : 35
+Aug - Sep : 46
+Oct - Nov : 52
+Dec - Jan : 41
+Feb - Mar : 33
+Apr - May : 45
+Jun - Jul : 48
+Aug - Sep : 42
+Oct - Nov : 31
+Dec - Jan : 10
+
+
+Suspendisse - 2m
+Feb - Mar : 24
+Apr - May : 22
+Jun - Jul : 27
+Aug - Sep : 21
+Oct - Nov : 32
+Dec - Jan : 37
+Feb - Mar : 37
+Apr - May : 26
+Jun - Jul : 26
+Aug - Sep : 27
+Oct - Nov : 26
+Dec - Jan : 19
+
+
+Vivamus - 2m
+Feb - Mar : 22
+Apr - May : 23
+Jun - Jul : 33
+Aug - Sep : 19
+Oct - Nov : 24
+Dec - Jan : 25
+Feb - Mar : 23
+Apr - May : 19
+Jun - Jul : 25
+Aug - Sep : 20
+Oct - Nov : 24
+Dec - Jan : 9
+
+
+Etiam - 2m
+Feb - Mar : 21
+Apr - May : 22
+Jun - Jul : 28
+Aug - Sep : 16
+Oct - Nov : 13
+Dec - Jan : 28
+Feb - Mar : 28
+Apr - May : 20
+Jun - Jul : 26
+Aug - Sep : 17
+Oct - Nov : 23
+Dec - Jan : 14
+
+
+Maecenas - 2m
+Feb - Mar : 17
+Apr - May : 28
+Jun - Jul : 14
+Aug - Sep : 30
+Oct - Nov : 11
+Dec - Jan : 18
+Feb - Mar : 22
+Apr - May : 26
+Jun - Jul : 20
+Aug - Sep : 18
+Oct - Nov : 26
+Dec - Jan : 22
+
+
